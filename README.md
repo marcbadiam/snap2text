@@ -208,7 +208,7 @@ sudo apt install wl-clipboard
 By using Snap2Text, you acknowledge and agree to the following:
 
 - **API Usage**: You are solely responsible for your Google AI Studio API usage, including but not limited to:
-  - Staying within free tier limits (250 requests/day, 10 requests/minute)
+  - Staying within free tier limits
   - Monitoring your API consumption
   - Any charges incurred from exceeding free tier limits or using paid plans
   - Compliance with Google's Terms of Service and API usage policies
