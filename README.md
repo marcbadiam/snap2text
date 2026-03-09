@@ -226,3 +226,11 @@ By using Snap2Text, you acknowledge and agree to the following:
   - Use the tool in compliance with all applicable laws and regulations
 
 For the most current information about API limits and pricing, visit: https://ai.google.dev/pricing
+
+## General Disclaimer
+
+**The authors and contributors of this project are not responsible for any damage, data loss, or any other issues that may arise from the use of this software.** Use it at your own risk. This software is provided under the MIT License without any warranty of any kind, express or implied. See the [LICENSE](LICENSE) file for full details.
+
+## ⚠️ Beta Version Notice
+
+**This is a beta release (v0.2.0b1).** This version may contain incomplete implementations and significant undocumented bugs. It is strongly recommended to **avoid using this software in a real production or development environment**. Features may change, break, or be removed without prior notice in future releases.
